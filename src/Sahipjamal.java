@@ -8,5 +8,7 @@ public class Sahipjamal {
 
         System.out.println("We will have a summer next week");
 
+        System.out.println("Group study.what a fun! ");
+
     }
 }
