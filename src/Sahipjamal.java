@@ -12,5 +12,7 @@ public class Sahipjamal {
 
         System.out.println("hello");
 
+        System.out.println("master");
+
     }
 }
