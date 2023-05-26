@@ -6,5 +6,6 @@ public class Tasks1 {
         //changes
         System.out.println("some changes update");
         //I made changes
+        // latest changes
     }
 }
