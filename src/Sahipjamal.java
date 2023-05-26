@@ -10,5 +10,7 @@ public class Sahipjamal {
 
         System.out.println("Group study.what a fun! ");
 
+        System.out.println("hello");
+
     }
 }
