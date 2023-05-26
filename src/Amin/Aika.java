@@ -7,5 +7,6 @@ public class Aika {
         //this is out practice
 
         System.out.println("Printing");
+        System.out.println("Write ");
     }
 }
