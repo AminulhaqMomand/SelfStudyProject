@@ -6,5 +6,7 @@ public class Sahipjamal {
 
         System.out.println("Cold");
 
+        System.out.println("We will have a summer next week");
+
     }
 }
