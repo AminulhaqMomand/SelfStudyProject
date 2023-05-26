@@ -9,5 +9,6 @@ public class Milena {
         System.out.println("Hello");
         System.out.println("Hello Chicago");
         System.out.println("hi");
+        System.out.println("Good night");
     }
 }
