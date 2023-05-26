@@ -14,5 +14,7 @@ public class Sahipjamal {
 
         System.out.println("master");
 
+        System.out.println("chicago");
+
     }
 }
