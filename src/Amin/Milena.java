@@ -13,5 +13,6 @@ public class Milena {
         //ha
         //kkdkd
         System.out.println("Milena");
+        System.out.println("skxa");
     }
 }
